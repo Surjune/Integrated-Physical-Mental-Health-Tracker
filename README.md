@@ -188,6 +188,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For issues and questions, please open an issue on the repository or contact the development team.
 
----
+--- 
 
 **Last Updated**: February 2026
